@@ -1,4 +1,4 @@
-# Hi, I'm Ceph 👋
+## Hi, I'm Cephas 👋
 
 ### Full-Stack Software Engineer | Backend & Cloud
 
