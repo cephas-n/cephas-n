@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ceph 👋
 
-<!--
-**cephas-n/cephas-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Software Engineer | Backend & Cloud
 
-Here are some ideas to get you started:
+Building reliable, scalable applications and cloud-integrated systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** TypeScript, JavaScript, PHP, Python, C++
+- **Frontend:** React, Next.js, HTML, CSS
+- **Backend:** Node.js, Fastify, Laravel, REST APIs
+- **Databases & Search:** PostgreSQL, MySQL, MongoDB, DynamoDB, OpenSearch
+- **Cloud & DevOps:** AWS, Docker, CI/CD, Infrastructure as Code
+- **Integrations:** Stripe, third-party APIs, cloud services
+- **AI:** LLM integration and AI-powered search
+
+## 💼 Experience
+
+Production software across healthcare, education, HR, and business, including NHS-integrated healthcare systems and a student registration platform serving 300–500 students annually for over three years.
+
+## 🎯 Interests
+
+Cloud architecture, backend systems, healthcare technology, applied AI, machine learning, and robotics.
+
+## 🤝 Let's Connect
+
+Open to collaboration, knowledge sharing, and impactful engineering projects.
+
+- 🌐 **Portfolio:** [cefftech.net](https://cefftech.net)
+- 💼 **LinkedIn:** _Add your LinkedIn profile URL_
